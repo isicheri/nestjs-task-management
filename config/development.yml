@@ -1,0 +1,9 @@
+db: 
+  host: 'localhost'
+  username: 'postgres'
+  password: 'dominion'
+  synchronize: true
+
+jwt: 
+  secret: 'topsecret'
+     
